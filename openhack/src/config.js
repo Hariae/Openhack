@@ -1,0 +1,1 @@
+export var rooturl = 'http://localhost:8080/SpringMvcUser/';
